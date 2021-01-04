@@ -25,7 +25,7 @@ This project has been solved on a Jupyter notebook
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
 
 #### Results:
-![results](./images/Results.png)
+![results](./images/results.png)
 
 
 ### Requirements
