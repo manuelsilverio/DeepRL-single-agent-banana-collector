@@ -30,13 +30,13 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 
 ### Requirements
 Libraries:
-pip install unityagents
-pip install numpy
-pip install matplotlib
-install pytorch folliwng the instructions on the pytorch website: https://pytorch.org/get-started/locally/
+* pip install unityagents
+* pip install numpy
+* pip install matplotlib
+* install pytorch folliwng the instructions on the pytorch website: https://pytorch.org/get-started/locally/
 
-You will need the folder named: Banana_Windows_x86_64 and the jupyter notebook named Navigation.ipynb
+* You will need the folder named: Banana_Windows_x86_64 and the jupyter notebook named Navigation.ipynb
 
-For this case you might not need to install Unity3D. This is because the files for the environment were provided by the Udacity Nano degree in Deep reinforcement learning.
+* For this case you might not need to install Unity3D. This is because the files for the environment were provided by the Udacity Nano degree in Deep reinforcement learning.
 
 
