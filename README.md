@@ -33,7 +33,7 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 * pip install unityagents
 * pip install numpy
 * pip install matplotlib
-* install pytorch folliwng the instructions on the pytorch website: https://pytorch.org/get-started/locally/
+* install pytorch following the instructions on the pytorch website: https://pytorch.org/get-started/locally/
 
 ##### You will need the folder named: Banana_Windows_x86_64 and the jupyter notebook named Navigation.ipynb
 
