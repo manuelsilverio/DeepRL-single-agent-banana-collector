@@ -39,5 +39,5 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 ##### You will need the folder named: Banana_Windows_x86_64 and the jupyter notebook named Navigation.ipynb
 
 * For this project you might not need to install Unity3D. This is because the files for the environment were provided by the Udacity Nano degree in Deep reinforcement learning.
-
+* Make sure to uncompressed the file 'Banana_Windows_x86_64.zip'
 
